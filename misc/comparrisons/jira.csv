@@ -1,0 +1,70 @@
+key,name,points,status,sprint
+EZ-53967,Investigation 3 hours - V31.6 - unable to bill products with discount via billing trigger or transfer estimate to invoice due to 'price adjustment over discounting' error.,0.000000,Done,Sublime - 24Aug21 - 8Sep21
+EZ-53957,Create buttons in react-ui,5.000000,In Progress,Sublime - 7Sep21 - 21Sep21
+EZ-53803,Data query: Bundle Usage - What practices have bundles set up,2.000000,Done,Sublime - 24Aug21 - 8Sep21
+EZ-53735,"Openpay Integration - Copy & Logo updates for US, AU and UK region integrations",5.000000,Done,Sublime - 24Aug21 - 8Sep21
+EZ-53726,"Add Events for AppCues, so that we can create flows on pages regardless of how the customer got to that page",3.000000,Done,Sublime - 24Aug21 - 8Sep21
+EZ-53720,TWIG invoice template shows items with no discount as -0,3.000000,Done,Sublime - 7Sep21 - 21Sep21
+EZ-53680,Wellness Plans can't add a benefit to a product,2.000000,Done,LinedOut - 23Aug - 27Aug
+EZ-53669,V31.6 - unable to bill products with discount via billing trigger or transfer estimate to invoice due to 'price adjustment over discounting' error.,8.000000,Release Notes - To Do,Sublime - 7Sep21 - 21Sep21
+EZ-53646,Optivet Referrals - Incorrect naming of administration route,2.000000,Done,LinedOut - 23Aug - 27Aug
+EZ-53567,Section Selekta on Contact Screen Incorrect Spacing,0.000000,No Work Required,LinedOut - 23Aug - 27Aug
+EZ-53549,Reorder clinical record sections - technical scoping timebox,5.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53469,Openpay Regional Support for US,5.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53372,How many inactive products in bundles?,2.000000,Done,Sublime - 24Aug21 - 8Sep21
+EZ-53355,DATAFIX - Springs Family Vet- Payment in ezyVet shows as declined but accepted in PayJunction,1.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53351,Global query to identify all sites with a postcard failure from EZ-52317,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53331,Data-fix - Victory Vets - NZ - Victory Vets - Call Completed - Payment Allocation,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53220,Version30 - Unknown error when trying to approve invoices,3.000000,Done,LinedOut - 23Aug - 27Aug
+EZ-53136,Clinical Record Sidebar UX Improvements (Phase 1) - E2E Testing,5.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53133,Clinical Record Sidebar UX Improvements (Phase 1) - Tags,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53132,Clinical Record Sidebar UX Improvements (Phase 1) - Interested contacts,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53131,Clinical Record Sidebar UX Improvements (Phase 1) - Referred by,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53122,Clinical Record Sidebar UX Improvements (Phase 1) - Owner,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53120,Clinical Record Sidebar UX Improvements (Phase 1) - Wellness,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53119,Clinical Record Sidebar UX Improvements (Phase 1) - Appointment,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53116,Clinical Record Sidebar UX Improvements (Phase 1) - Patient Photo,2.000000,Done,LinedOut - 9Aug - 20Aug
+EZ-53101,None of the reporting items are showing up if you logged in as a normal user,0,Done,
+EZ-53071,Testing Remove Temp Table for Process Pending Relationships,8.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-53042,Data-fix - Pathway (Head Office) - Missing Payment from Payment Summary Report,1.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-52956,Pathway (Head Office) - Wellness Plan associated with defunct department ,3.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-52914,Ethos Veterinary Health - Head Office - Twig Template Variable Request,3.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-52881,Veterinary Specialty Center (VSC) - Vet Specialty Center - resources linked to inactive departments causing name is not unique error,1.000000,Done,LinedOut - 12Jul - 23Jul
+EZ-52659,Overdue Diagnostic Result Memos Clogging User Memos and Causing Slowness When Logging In,5.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-52317,V27.4 - Postcard Integration is failing to send with generic error message,3.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-52256,PROJECT - Premier Equine Veterinary Service - Premier Equine (Impromed) - cannot open complete history PDFs,5.000000,Done,LinedOut - 12Jul - 23Jul
+EZ-51985,Wellness timebox investigation,0,No Work Required,LinedOut - 28Jun - 9Jul
+EZ-51674,Masterpet integration - connection details change required for integration URLS,3.000000,Done,LinedOut - 28Jun - 9Jul
+EZ-51541,Clinical layouts: Measuring success ,5.000000,Done,LinedOut - 14Jun - 25Jun
+EZ-51286,Smartflow icon on calendar appointments does not appearSmartflow via manual check-in functionality.,3.000000,Done,LinedOut - 31May - 11Jun
+EZ-51277,Clinical layouts: Add show/hide option for by item and combined view sections,3.000000,Done,LinedOut - 28Jun - 9Jul
+EZ-51276,Clinical layouts: Add clinical layout section section to the clinical record sidebar,3.000000,Done,LinedOut - 14Jun - 25Jun
+EZ-51235,Pet Medical Milson Point  - Workaround for overallocated patient,3.000000,Done,LinedOut - 12Jul - 23Jul
+EZ-51231,DATAFIX - Pathway - Los Alamos - Payment missing from Summary Report,3.000000,Done,LinedOut - 14Jun - 25Jun
+EZ-51179,NVC - National Veterinary Care  - openpay payment type not highlighted?,3.000000,Done,LinedOut - 28Jun - 9Jul
+EZ-51168,Allow the cancelled appointments report to be exported ,5.000000,Done,LinedOut - 12Jul - 23Jul
+EZ-50916,Russell Vale Animal Clinic (QuickVet) - When setting a user to 'Can Be Booked' it reverts to 'User Only' on Save,3.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-50849,Openpay regional support for API connections,5.000000,Done,LinedOut - 12Jul - 23Jul
+EZ-50832,Openpay US Pre-launch E2E Testing,2.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-50829,Harbor Animal Hospital -  Resources - Unable to change the order due to database error,2.000000,Done,LinedOut - 17May - 28May
+EZ-50812,Coastal Animal Hospital - ATTN: Leighton- Payment not saving allocating correctly saves as $0.00 allocated,2.000000,Done,LinedOut - 17May - 28May
+EZ-50793,Remove PERFORMANCE_INHERIT_RECORD_RELATIONSHIPS feature flag ,5.000000,Done,LinedOut - 12Jul - 23Jul
+EZ-50655,DKC - Resources - Trying to change order of resource but getting an error: 'resources should only be related to stock locations',2.000000,Done,LinedOut - 17May - 28May
+EZ-50616,Remove PERFORMANCE_IRBG_REPORT and PERFORMANCE_ANIMAL_REPORT feature flags,2.000000,Done,LinedOut - 17May - 28May
+EZ-50603,Remove WELLNESS_RECORDFILTER_PERFORMANCE and WELLNESS_MEMBERSHIP_QUERY_CACHE feature flags,2.000000,Done,LinedOut - 17May - 28May
+EZ-50602,"Remove WELLNESS_WIZARD_REPORTID, WELLNESS_PAYMENT_REPORTID Feature Flags",3.000000,Done,LinedOut - 12Jul - 23Jul
+EZ-50601,Document feature flags ,0,Done,"Out of sprint, in progress"
+EZ-50420,GET v2/wellnessplan - filtering by name not working,2.000000,Done,LinedOut - 3May - 14May
+EZ-50378,V26.8 - Smartflow icon on calendar appointments does not show for patients sent to Smartflow via auto-check-in functionality.,5.000000,Done,LinedOut - 17May - 28May
+EZ-50377,Ohio State University (OSU) - Unable to Merge Patients - Getting Standard Error,2.000000,Done,LinedOut - 3May - 14May
+EZ-50321,Openpay UK Pre-launch E2E Testing,5.000000,Done,LinedOut - 17May - 28May
+EZ-50057,NVC - Wellness Plans renewed under incorrect DEPARTMENT,5.000000,Done,LinedOut - 17May - 28May
+EZ-49951,"Review all unnecessary feature flags in the code, plan in place for remaining ",3.000000,Done,LinedOut - 3May - 14May
+EZ-49646,Hackathon - Build a GraphQL Endpoint ,0,Dev Review,
+EZ-49640,Migrate print buttons - EZ-49640,3.000000,Done,LinedOut - 6Apr - 16Apr
+EZ-49625,Viriginia Tech - Unable to unapprove invoice line since it doesn't match source record,2.000000,Done,LinedOut - 6Apr - 16Apr
+EZ-49561,v2/wellnessplanmembership - resource_id validation applied incorrectly,2.000000,Done,LinedOut - 19Apr - 30Apr
+EZ-49530,OKState - Prescription Requests generating approval tasks that breaks user side bar,3.000000,Done,LinedOut - 19Apr - 30Apr
+EZ-49311,Move Modica to dedicated shortcode ,5.000000,Done,LinedOut - 26Jul - 6Aug
+EZ-43978,Records Dashboard filters added,8.000000,Done,LinedOut - 22Mar21 - 2Apr21
+EZ-43781,Wellness Membership billing history shows  incorrect date forma

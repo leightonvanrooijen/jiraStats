@@ -1,0 +1,50 @@
+key,name,points,status,sprint,,Jaime,Sprint,,,,Jaime,Sprint
+EZ-53809,V30- Users not able to enter in health status from patient record,0,Done,Alpha Army - 30Aug - 10Sep,,,,,,,5,22Mar21 – 2Apr21
+EZ-53738,V33.00 and above - Can't open consult - solid color screen 500 error after adding image map notes,0,Done,Alpha Army - 30Aug - 10Sep,,,,,,,0,6Apr – 16Apr
+EZ-53364,"VC+ Phase 2 - Rename existing ""IDEXX Vet Connect Plus"" to ""IDEXX VetConnect Plus - External"" ",3,Release Notes - To Do,Alpha Army - 30Aug - 10Sep,,,,,,,8,19Apr - 30Apr
+,,3,,Alpha Army - 30Aug - 10Sep Sum,,,,,,,5,3May – 14Ma
+EZ-47980,Sage Centers for Veterinary Specialty and Emergency Care - Records - Records dashboard exclusion criteria excludes ALL records!,3,Done,Bug Smash Sprint,,,,,,,16,17May – 28May
+,,3,,Bug Smash Sprint Sum,,,,,,,20,14Jun – 25Jun
+EZ-52369,Kelperland Veterinary Clinic - Resource should only be related to stock locations,2,Done,LinedOut - 12Jul - 23Jul,,,,,,,5,28Jun – 9Jul
+EZ-52365,Client App - Data Request ,5,Done,LinedOut - 12Jul - 23Jul,,3,LinedOut - 23Feb21 - 5Mar21 Sum,,,,15,12Jul – 23Jul
+EZ-52308,Asteris diagnosing ,8,Done,LinedOut - 12Jul - 23Jul,,5,LinedOut - 25Jan21 - 5Feb21 Sum,,,,11,26Jul – 6Aug
+EZ-52218,PACS Integrations Not Downloading Attachments ,0,Done,LinedOut - 12Jul - 23Jul,,,,,,,14,9Aug – 20Aug
+,,15,,LinedOut - 12Jul - 23Jul Sum,,,,,,,3,30Aug – 10Sep
+EZ-51618,Clinical layouts: Fix the permission assignment in rollout ,0,Done,LinedOut - 14Jun - 25Jun,,,,,,,,
+EZ-51307,Clinical Layouts: Show Non-Layout Sections that Contain Entries,5,Done,LinedOut - 14Jun - 25Jun,,6,LinedOut - 8Mar21 - 19Mar21 Sum,,,,,
+EZ-50966,Pawsitive Care - Wellness Plans - Invoiced items not coming off the available benefits,13,Done,LinedOut - 14Jun - 25Jun,,,,,,,,
+EZ-50369,Remove Master Problems tab from the Clinical Record,2,Done,LinedOut - 14Jun - 25Jun,,,,,,,,
+,,20,,LinedOut - 14Jun - 25Jun Sum,,,,,,,,
+EZ-50813,"Ethos Veterinary Health - Head Office - Tag removed, but still showing up on invoice lines report",5,Done,LinedOut - 17May - 28May,,,,,,,,
+EZ-50604,Remove ANIMAL_DEMEANOUR feature flag,3,Done,LinedOut - 17May - 28May,,,,,,,,
+EZ-49934,Add 'show active' functionality - master problems ,5,Done,LinedOut - 17May - 28May,,,,,,,,
+EZ-49895,v25.7/V31.0 - Charge Late Fees/Charge Interest report not generating correctly - showing clients with removed tags,3,Done,LinedOut - 17May - 28May,,,,,,,,
+,,16,,LinedOut - 17May - 28May Sum,,,,,,,,
+EZ-49907,Migrate master problems from tab to clinical record ,8,Done,LinedOut - 19Apr - 30Apr,,,,,,,,
+,,8,,LinedOut - 19Apr - 30Apr Sum,,,,,,,,
+EZ-49369,Resolve Code Conflict,0,Done,LinedOut - 22Mar21 - 2Apr21,,,,,,,,
+EZ-49171,PAC - Data Fix - Remove medications created by BAU SUPPORT TOOL ,5,Done,LinedOut - 22Mar21 - 2Apr21,,,,,,,,
+,,5,,LinedOut - 22Mar21 - 2Apr21 Sum,,,,,,,,
+EZ-48190,Timebox: Postcard communication failure,3,Done,LinedOut - 23Feb21 - 5Mar21,,,,,,,,
+,,3,,LinedOut - 23Feb21 - 5Mar21 Sum,,,,,,,,
+EZ-47788,VVCE- 500 error generating statements due to invoices with no animal,5,Done,LinedOut - 25Jan21 - 5Feb21,,,,,,,,
+EZ-47772,Cannot Request Dispense on MasterSublines,0,Done,LinedOut - 25Jan21 - 5Feb21,,,,,,,,
+,,5,,LinedOut - 25Jan21 - 5Feb21 Sum,,,,,,,,
+EZ-53028,Clinical Record Sidebar: Technical Planning,8,Done,LinedOut - 26Jul - 6Aug,,,,,,,,
+EZ-52945,Medications Label Variable for Product Identifier - NON TWIG,3,Done,LinedOut - 26Jul - 6Aug,,,,,,,,
+,,11,,LinedOut - 26Jul - 6Aug Sum,,,,,,,,
+EZ-50852,Investigate Asteris issue ,5,Done,LinedOut - 28Jun - 9Jul,,,,,,,,
+,,5,,LinedOut - 28Jun - 9Jul Sum,,,,,,,,
+EZ-49243,Asteris - Logging request/response,5,Done,LinedOut - 3May - 14May,,,,,,,,
+,,5,,LinedOut - 3May - 14May Sum,,,,,,,,
+EZ-48697,Petstock Vet - Tags removed from products still being pulled into inventory reports,3,Done,LinedOut - 8Mar21 - 19Mar21,,,,,,,,
+EZ-48574,MEDVET - 31.9 - history template picklists pop ups have changed location,3,Done,LinedOut - 8Mar21 - 19Mar21,,,,,,,,
+,,6,,LinedOut - 8Mar21 - 19Mar21 Sum,,,,,,,,
+EZ-53280,Clinical Record Sidebar UX Improvements (Phase 2) - Save customized sidebar ,8,In Progress,LinedOut - 9Aug - 20Aug,,,,,,,,
+EZ-53130,Clinical Record Sidebar UX Improvements (Phase 1) - Assignees,2,Done,LinedOut - 9Aug - 20Aug,,,,,,,,
+EZ-53121,Clinical Record Sidebar UX Improvements (Phase 1) - Insurance,2,Done,LinedOut - 9Aug - 20Aug,,,,,,,,
+EZ-53117,Clinical Record Sidebar UX Improvements (Phase 1) - Patient info,2,Done,LinedOut - 9Aug - 20Aug,,,,,,,,
+,,14,,LinedOut - 9Aug - 20Aug Sum,,,,,,,,
+EZ-51048,Perth Veterinary Specialist Entity - Dr Rebecca Healy Audit log,0,Done,"Out of sprint, in progress",,,,,,,,
+,,0,,"Out of sprint, in progress Sum",,,,,,,,
+,,119,,Grand Sum,,,,,,,,

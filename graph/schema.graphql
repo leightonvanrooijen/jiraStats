@@ -1,0 +1,45 @@
+schema {
+    query: Query
+}
+
+type Query {
+    user(id: Int!): User!
+	users: [User!]!
+	sprint(id: Int!): Sprint!
+	sprints: [Sprint!]!
+	issue(id: Int!): Issue!
+	issues: [Issue!]!
+}
+
+type User {
+    id: Int
+	jiraId: String
+	name:   String
+	active: Boolean
+	type:   String
+	sprints: [Sprint!]!
+	issues:  [Issue!]!
+}
+
+type Sprint {
+	id: 	   Int
+	jiraId:    Int 
+	name:      String
+	state:     String
+	startDate: String
+	endDate:   String
+	issues:	   [Issue!]!
+}
+
+type Issue {
+	id: 		  Int
+	name:         String
+	key:          String
+	points:       Int
+	status:       String
+	completeDate: String
+	userID:       Int
+	# user: 		  User
+	sprintID:     Int
+	sprint:	      Sprint
+}

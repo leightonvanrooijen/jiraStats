@@ -1,0 +1,49 @@
+key,name,points,status,sprint,,,,,,,,
+EZ-53363,"VC+ Phase 2 - Create new Integration ""IDEXX VetConnect Plus - Internal""",3,Done,Alpha Army - 30Aug - 10Sep,,,,,,,,
+,,3,,Alpha Army - 30Aug - 10Sep Sum,,3,Alpha Army - 30Aug - 10Sep Sum,,,,,
+EZ-47928,Lort Smith - Overdue diagnostic result memo generates with no 'send to' user,0,Done,Bug Smash Sprint,,13,Idexx Phase 2 – 13Sept,,,,3,8Mar21 – 19Mar21
+EZ-47878,Pathway (Head Office) - Especially Cats - Duplicate Communication Tasks Created w/o Add/Edit/Disable permission,0,Done,Bug Smash Sprint,,,,,,,8,6Apr – 16Apr
+,,0,,Bug Smash Sprint Sum,,,,,,,2,19Apr – 30Apr
+EZ-53612,"VC+ Phase 2 - New internal Diagnostics to be ordered with ""IDEXX Vet Connect Plus - Internal""",8,Release Notes - To Do,Idexx Phase 2 - 13Sept -,,7,LinedOut - 15Dec20 - 24Dec20 Sum,,,,0,3May-14May
+EZ-53365,"VC+ Phase 2: Prevent new In-House Diagnostic Requests from using the ""IDEXX IVLS"" integration",5,To Do,Idexx Phase 2 - 13Sept -,,,,,,,5,17May – 28May
+,,13,,Idexx Phase 2 - 13Sept - Sum,,,,,,,5,31May – 11Jun
+EZ-52059,When Adding an Appointment from the consult screen the clinical layout should not change.,0,Done,LinedOut - 12Jul - 23Jul,,,,,,,13,14Jun – 25Jun
+,,0,,LinedOut - 12Jul - 23Jul Sum,,5,LinedOut - 23Feb21 - 5Mar21 Sum,,,,4,28Jun – 9Jul
+EZ-52089,Prevent Auto loading template for existing records ,0,Done,LinedOut - 14Jun - 25Jun,,2,LinedOut - 25Jan21 - 5Feb21 Sum,,,,0,12Jul – 23Jul
+EZ-51298,Launching Clinical Layouts Feature Phase 1 ,8,Done,LinedOut - 14Jun - 25Jun,,,,,,,5,26Jul – 6Aug
+EZ-51247,Clinical layouts: Apply default layout to appointment type,5,Done,LinedOut - 14Jun - 25Jun,,,,,,,8,9Aug – 20Aug
+,,13,,LinedOut - 14Jun - 25Jun Sum,,,,,,,6,23Aug – 10Sep
+EZ-44448,Discovery Report: PetStock Vet API ,3,Done,LinedOut - 15Dec20 - 24Dec20,,,,,,,,
+EZ-44328,*Investigation* Standard Payment Report: Fee % to be amended to show correct Value ,3,Done,LinedOut - 15Dec20 - 24Dec20,,,,,,,,
+EZ-44325,Discovery Ticket: CityVet Endpoint Creation ,1,Done,LinedOut - 15Dec20 - 24Dec20,,,,,,,,
+,,7,,LinedOut - 15Dec20 - 24Dec20 Sum,,3,LinedOut - 9Feb21 - 19Feb21 Sum,,,,,
+EZ-50453,Create Wellness Plan Membership not working on V2 api ,5,Done,LinedOut - 17May - 28May,,89,Grand Sum,,,,,
+,,5,,LinedOut - 17May - 28May Sum,,,,,,,,
+EZ-50084,Animal Emergency and Specialty of Knoxville - multiple memos since last update,2,Done,LinedOut - 19Apr - 30Apr,,,,,,,,
+EZ-49684,V26.8 & V32.1 - External prescriptions external prescription is made from the patient record not appearing on clinical summaries,0,Done,LinedOut - 19Apr - 30Apr,,,,,,,,
+,,2,,LinedOut - 19Apr - 30Apr Sum,,,,,,,,
+EZ-53617,Timebox - ebooking performance for VSC ,3,No Work Required,LinedOut - 23Aug - 27Aug,,,,,,,,
+,,3,,LinedOut - 23Aug - 27Aug Sum,,,,,,,,
+EZ-48042,Clinical Data Request (Global Query) ,5,Done,LinedOut - 23Feb21 - 5Mar21,,,,,,,,
+,,5,,LinedOut - 23Feb21 - 5Mar21 Sum,,,,,,,,
+EZ-44206,Ethos - Appointment V2 returning planning guide records,2,Done,LinedOut - 25Jan21 - 5Feb21,,,,,,,,
+,,2,,LinedOut - 25Jan21 - 5Feb21 Sum,,,,,,,,
+EZ-53012,Timebox: IDEXX phase 1 assistance,5,Done,LinedOut - 26Jul - 6Aug,,,,,,,,
+,,5,,LinedOut - 26Jul - 6Aug Sum,,,,,,,,
+EZ-52160,Clinical Layouts: Ensure user cannot edit the clinical layout on an appointment type without the apply layouts permission,1,Done,LinedOut - 28Jun - 9Jul,,,,,,,,
+EZ-51920,Clinical Layouts: Confirmation of disabling when associated with a clinical record,3,Done,LinedOut - 28Jun - 9Jul,,,,,,,,
+,,4,,LinedOut - 28Jun - 9Jul Sum,,,,,,,,
+EZ-51275,Clinical layouts: Add clinical layout section to the new clinical record screen and ensure the clinical record displays as required,5,Done,LinedOut - 31May - 11Jun,,,,,,,,
+,,5,,LinedOut - 31May - 11Jun Sum,,,,,,,,
+EZ-49544,Demeanour Bulk Actions,8,Done,LinedOut - 6Apr - 16Apr,,,,,,,,
+,,8,,LinedOut - 6Apr - 16Apr Sum,,,,,,,,
+EZ-49204,Veterinary Emergency & Specialty Hospital - SMS texts being sent to rDVM's number not client number since client has no mobile number - Non-shipped ,0,Done,LinedOut - 8Mar21 - 19Mar21,,,,,,,,
+EZ-48629,Camperdown Veterinary Center - Contact Financial tab 500 error due to openpay token,3,Done,LinedOut - 8Mar21 - 19Mar21,,,,,,,,
+,,3,,LinedOut - 8Mar21 - 19Mar21 Sum,,,,,,,,
+EZ-53528,v33.0 - Complete history view and clinical record combined view consult section toggles are remaining highlighted instead of deselecting when a new option is chosen.,0,Done,LinedOut - 9Aug - 20Aug,,,,,,,,
+EZ-53466,TWIG (for OpenPay) - estimate of work to have a banner section in the templates ,5,Done,LinedOut - 9Aug - 20Aug,,,,,,,,
+EZ-52368,NCSU - North Carolina State University - Hospital tab not filtering properly,3,Done,LinedOut - 9Aug - 20Aug,,,,,,,,
+,,8,,LinedOut - 9Aug - 20Aug Sum,,,,,,,,
+EZ-46489,Veterinary Emergency & Specialty Hospital - SMS texts being sent to rDVM's number not client number since client has no mobile number,3,Done,LinedOut - 9Feb21 - 19Feb21,,,,,,,,
+,,3,,LinedOut - 9Feb21 - 19Feb21 Sum,,,,,,,,
+,,89,,Grand Sum,,,,,,,,
