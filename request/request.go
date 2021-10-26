@@ -18,7 +18,7 @@ func BasicAuth(username, password string) string {
 }
 
 func RedirectPolicyFunc(req *http.Request, via []*http.Request) error {
-	req.Header.Add("Authorization", "Basic "+BasicAuth("leighton.vanrooijen@ezyvet.com", "GetyourOwn!"))
+	req.Header.Add("Authorization", "Basic "+BasicAuth("leighton.vanrooijen@ezyvet.com", ""))
 	return nil
 }
 
@@ -58,7 +58,7 @@ func Get(args ReqArgs) (*http.Response, error) {
 	}
 
 	req.Header.Set("Content-Type", "application/json; charset=UTF-8")
-	req.Header.Add("Authorization", "Basic "+BasicAuth("leighton.vanrooijen@ezyvet.com", "IvySDfPBesiEVwdmCCGRADF2"))
+	req.Header.Add("Authorization", "Basic "+BasicAuth("leighton.vanrooijen@ezyvet.com", ""))
 
 	resp, err := client.Do(req)
 	if err != nil {
@@ -79,7 +79,7 @@ func Post(args ReqArgs) *http.Response {
 	}
 
 	req.Header.Set("Content-Type", "application/json; charset=UTF-8")
-	req.Header.Add("Authorization", "Basic "+BasicAuth("leighton.vanrooijen@ezyvet.com", "IvySDfPBesiEVwdmCCGRADF2"))
+	req.Header.Add("Authorization", "Basic "+BasicAuth("leighton.vanrooijen@ezyvet.com", ""))
 
 	resp, err := client.Do(req)
 	if err != nil {
